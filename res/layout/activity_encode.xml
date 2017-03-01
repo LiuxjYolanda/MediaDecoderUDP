@@ -1,0 +1,26 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="352dp"
+
+    android:layout_height="288dp"
+
+    android:orientation="horizontal"
+
+    tools:context=".EncodeActivity" >
+
+
+
+    <SurfaceView
+
+         android:id="@+id/surfaceViewPlay"
+
+        android:layout_width="352dp"
+
+        android:layout_height="288dp"/>
+
+
+
+</RelativeLayout>
